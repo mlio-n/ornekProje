@@ -1,0 +1,16 @@
+1:	Arsa seçelim (1)
+	Şehir Merkezi seçelim (2 [katsayı: 1.2]) 
+	Arsa şekli Dikdörtgen (1)
+	Eni: 30 m
+	Boyu: 50 m
+	Fiyat : 1.2 * 2*(80) * 1000
+	= 192.000 TL
+
+2:	Daire seçelim (2)
+	Zemin kat seçelim (3 [katsayı: 0.9])
+	Eni: 13 m
+	Boyu: 18 m
+	Fiyat:  0.9 * 13 * 18 * 5000
+	= 1.053.000 TL
+
+
